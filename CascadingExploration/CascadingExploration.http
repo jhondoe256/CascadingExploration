@@ -1,0 +1,6 @@
+@CascadingExploration_HostAddress = http://localhost:5205
+
+GET {{CascadingExploration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
